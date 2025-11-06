@@ -5,3 +5,4 @@
 | ------------- | ------------- |
 | Website	  | https://thomasahle.com  |
 | Twitter  | https://twitter.com/thomasahle  |
+| Hiring  | https://www.normalcomputing.com/ |
